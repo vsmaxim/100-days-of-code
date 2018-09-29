@@ -18,3 +18,13 @@ types and typeclasses are inferred in Haskell.
 **Thoughts:** Haskell has strict typisation, it's like a sip of clear water after Python.
 
 **Link to work:** [Examples that I've done in repository](https://github.com/vsmaxim/100-days-of-code)
+
+## Day 3: September 27, 2018
+
+**Today's Progress**: Finished topics about function and recursion. Also found that implementing the functions
+from tutorial without reading how it's implemented at first is challenging thing. 
+
+**Thoughts:** Haskell is really about functions. It really makes your brain think in another way than it does everyday.
+Also, catched myself at the point that I didn't know what recursion really is, but yeah, it's become clear today to me.
+
+**Link to work:** [Examples that I've done in repository](https://github.com/vsmaxim/100-days-of-code)
