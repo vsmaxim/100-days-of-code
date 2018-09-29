@@ -19,7 +19,7 @@ types and typeclasses are inferred in Haskell.
 
 **Link to work:** [Examples that I've done in repository](https://github.com/vsmaxim/100-days-of-code)
 
-## Day 3: September 27, 2018
+### Day 3: September 27, 2018
 
 **Today's Progress**: Finished topics about function and recursion. Also found that implementing the functions
 from tutorial without reading how it's implemented at first is challenging thing. 
