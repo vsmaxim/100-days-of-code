@@ -28,3 +28,13 @@ from tutorial without reading how it's implemented at first is challenging thing
 Also, catched myself at the point that I didn't know what recursion really is, but yeah, it's become clear today to me.
 
 **Link to work:** [Examples that I've done in repository](https://github.com/vsmaxim/100-days-of-code)
+
+
+### Day 4: September 28, 2018
+
+**Today's Progress**: Finished topic about high-ordering functions. Got more understanding how the things done in Haskell.
+Wrote my first algorithm in Haskell without checking the book.
+
+**Thoughts:** It becomes more and more impressive for me. Haskell is HUGE!
+
+**Link to work:** Same as always.
