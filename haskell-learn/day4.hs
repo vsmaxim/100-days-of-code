@@ -44,14 +44,12 @@ gcd' x y
     | y == 0    = abs x
     | otherwise = gcd' y (mod x y)
 
--- eratosphen :: (Integral a, Ord a) => a -> [a]
+eratosphen :: Int -> [Int]
 eratosphen x
     | x <= 1 = []
     | otherwise = simplify [2..x]
 
--- simplify :: (RealFrac a, Integral a, Floating a) => [a] -> [a]
 simplify :: [Int] -> [Int]
-simplify [] = []
 simplify [x] = [x]
 simplify (x:xs)
     | (fst <= floor (sqrt $ fromIntegral lst)) = fst:(simplify (filter (f) xs))
