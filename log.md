@@ -55,3 +55,9 @@ Read about Cabal build system.
 **Thoughts:** Things is starting to go real smooth, got more understanding of how does it works.
 
 **Link to work:** This repo.
+
+### Day 7: October 3, 2018
+
+**Today's Progress:** Read topic about types.
+
+**Thoughts:** Not too pr
