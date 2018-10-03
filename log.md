@@ -47,3 +47,11 @@ Read about Cabal build system.
 **Thoughts:** Haskell is great, but I don't have enough time to learn it. But yeah, that's ok.
 
 **Link to work:** Same as always.
+
+### Day 6: October 2, 2018
+
+**Today's Progress:** Finished topic about Modules in Haskell and started topic about creating my own Types and Typeclasses.
+
+**Thoughts:** Things is starting to go real smooth, got more understanding of how does it works.
+
+**Link to work:** This repo.
